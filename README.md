@@ -42,6 +42,11 @@ This app was written to learn some c++ and how an Ardunio can be used to create 
 - Tape
 - Wires
 
+**Libraries used:**
+
+- [FastLED](https://github.com/FastLED/FastLED)
+- [LinkedList](https://github.com/ivanseidel/LinkedList)
+
 ## Contact
 
 - mrzmyr [@mrzmyr](https://twitter.com/mrzmyr)
